@@ -1,6 +1,5 @@
 //Master Writer Four Potentiometer 
 //Transmits mapped values of all four potentiometers via I2C to the slave that is connected to four servos
-//Edits made by Dipti Kulkarni <<https://github.com/cyberdrk>>
 //Acknowledgements and grateful to the official Arduino Wire Master Writer tutorial by Nicholas Zambetti <http://www.zambetti.com>
 
 
