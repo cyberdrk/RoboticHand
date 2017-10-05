@@ -1,6 +1,5 @@
 //Master Writer Potentiometer 
 //Transmits the mapped value of a potentiometer via I2C to a slave that is connected to a servo
-//Edits made by Dipti Kulkarni <<https://github.com/cyberdrk>>
 //Acknowledgements and grateful to the official Arduino Wire Master Writer tutorial  by Nicholas Zambetti <http://www.zambetti.com>
 
 
