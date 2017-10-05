@@ -1,6 +1,5 @@
 //Slave Receiver Servo 
 //Receives the mapped value of a potentiometer via I2C and writes it onto the servo
-//Edits made by Dipti Kulkarni <<https://github.com/cyberdrk>>
 //Acknowledgements and grateful to the official Arduino Wire Slave Receiver tutorial by Nicholas Zambetti <http://www.zambetti.com>
 
 
