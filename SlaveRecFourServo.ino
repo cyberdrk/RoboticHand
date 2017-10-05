@@ -1,6 +1,5 @@
 //4 Slave Receiver Servo
 //Recieves the mapped values of all four potentiometer via I2C as data and writes it on the respective servos
-//Edits made by Dipti Kulkarni <<https://github.com/cyberdrk>>
 //Acknowledgements and grateful to the official Arduino Wire Slave Receiver tutorial by Nicholas Zambetti <http://www.zambetti.com>
   
 
